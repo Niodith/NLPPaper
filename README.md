@@ -1,4 +1,4 @@
-This repository is used for the bachelors seminar to evaluate the Rotowire deep learning from https://github.com/KaijuML/data-to-text-hierarchical.
+This repository is used for the uni seminar to evaluate the Rotowire deep learning from https://github.com/KaijuML/data-to-text-hierarchical.
 
 The instructions on using can be found [here] (onmt/README.md).
 
